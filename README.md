@@ -1,4 +1,4 @@
-Assignment: Building and Designing Angular Components Objective Create a simple Angular application with three components: Employee, User, and Admin. Each component should display specific information and be styled accordingly.
+ng
 
 Instructions Clone the Repository: Fork the provided GitHub repository and clone it to your local machine.
 

@@ -1,4 +1,9 @@
-<app-login></app-login>
-<app-register></app-register>
-<app-user></app-user>
-<app-forgot-password></app-forgot-password>
+<nav>
+    <ul>
+        <li><a routerLink="login" routerLinkActive="active">Login</a></li>
+        <li><a routerLink="register" routerLinkActive="active">Register</a></li>
+        <li><a routerLink="forgot-password" routerLinkActive="active">Forgot Password</a></li>
+        <li><a routerLink="user" routerLinkActive="active">User</a></li>
+    </ul>
+</nav>
+<router-outlet></router-outlet>
